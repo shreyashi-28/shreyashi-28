@@ -18,9 +18,9 @@ MCA Student | Aspiring Software Developer | Lifelong Learner
 
 ### Tech Stack
 
-- **Languages:** Java, C, SQL, HTML, CSS, JavaScript  
+- **Languages:** Java (OOPs), C, SQL, HTML, CSS, JavaScript  
 - **Tools:** VS Code, Git, GitHub, Sublime Text  
-- **Currently Learning:** DSA in C, Java OOPs, Frontend Projects
+- **Currently Learning:** Python, DSA, Frontend Projects
 
 ---
 
